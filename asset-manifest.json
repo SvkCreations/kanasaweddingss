@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/kanasaweddingss/static/css/main.ae0cabde.css",
-    "main.js": "/kanasaweddingss/static/js/main.cffbb145.js",
+    "main.js": "/kanasaweddingss/static/js/main.cad61c2f.js",
     "static/js/787.dff3acad.chunk.js": "/kanasaweddingss/static/js/787.dff3acad.chunk.js",
     "static/media/video02.mp4": "/kanasaweddingss/static/media/video02.0a2afaef756da1bab732.mp4",
     "static/media/gallery08.jpg": "/kanasaweddingss/static/media/gallery08.b292cd730dc56c273d3e.jpg",
@@ -29,11 +29,11 @@
     "static/media/gallery11.jpeg": "/kanasaweddingss/static/media/gallery11.989ce5cc8914fa893472.jpeg",
     "index.html": "/kanasaweddingss/index.html",
     "main.ae0cabde.css.map": "/kanasaweddingss/static/css/main.ae0cabde.css.map",
-    "main.cffbb145.js.map": "/kanasaweddingss/static/js/main.cffbb145.js.map",
+    "main.cad61c2f.js.map": "/kanasaweddingss/static/js/main.cad61c2f.js.map",
     "787.dff3acad.chunk.js.map": "/kanasaweddingss/static/js/787.dff3acad.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ae0cabde.css",
-    "static/js/main.cffbb145.js"
+    "static/js/main.cad61c2f.js"
   ]
 }
